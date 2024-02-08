@@ -4,10 +4,16 @@ export default {
   theme: {
     fontFamily: {
       out: ["Outfit"],
+      young: ["Young Serif"],
     },
     extend: {
       colors: {
-        "dark-blue": "#262E38",
+        black: "#312E2C",
+        "dark-gray": "#5F564D",
+        "cream": "#F3E5D7",
+        "light-pink": "#FFF7FB",
+        "purple": "#7A284E",
+        "broun": "#854632",
       },
     },
   },
